@@ -47,7 +47,7 @@ Dataset: Copyright (c) 2018 AlQuraishi Laboratory
 
 * AlQuraishi, M. ProteinNet: a standardized data set for machine learning of protein structure. BMC Bioinformatics 20, 311 (2019). https://doi.org/10.1186/s12859-019-2932-0
 
-### Other Nice References
+### Other nice references
 
 This paper is about Google Deepmind's neural network called "alphafold". These 2 videos also nicely explained "alphafold" in detail, ([AlphaFold: Improved protein structure prediction](https://www.youtube.com/watch?v=HRqf76ULlCU) and [DeepMind AlphaFold](https://www.youtube.com/watch?v=cw6_OP5An8s))
 
